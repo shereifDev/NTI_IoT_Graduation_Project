@@ -66,18 +66,4 @@ The system syncs with a **Blynk Dashboard** featuring:
 - Historical Data Charts to track patient stability.
 - Instant Mobile Notifications for emergency cases.
 
----
 
-## 👥 The Team
-
-This project was developed during the **NTI (National Telecommunication Institute)** training by:
-
-- **Sherif Osama** - [GitHub Profile Link]
-- **Team Member 1** - [GitHub Link]
-- **Team Member 2** - [GitHub Link]
-- **Team Member 3** - [GitHub Link]
-
----
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
